@@ -437,6 +437,7 @@ public class HangmanActivity extends AppCompatActivity {
      */
     protected void finishHangman() {
 
+        //Agregar partida a la base de datos
     }
 
     /**

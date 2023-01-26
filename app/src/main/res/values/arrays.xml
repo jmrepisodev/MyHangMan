@@ -13,13 +13,35 @@
     </string-array>
 
     <string-array name="categoria">
+        <item>NOMBRES</item>
+        <item>COLORES</item>
+        <item>ANIMALES</item>
         <item>NATURALEZA</item>
         <item>CIUDADES</item>
     </string-array>
 
     <string-array name="descripcioncategoria">
-        <item>En esta categoria estan: animales, flores, frutas y plantas</item>
-        <item>En esta categoria estan algunas de las ciudades de todo el mundo</item>
+        <item>descripcion 1</item>
+        <item>descripcion 2</item>
+        <item>descripcion 3</item>
+    </string-array>
+
+    <string-array name="NOMBRES">
+        <item>MARIA</item>
+        <item>ELENA</item>
+        <item>EDUARDO</item>
+    </string-array>
+
+    <string-array name="COLORES">
+        <item>ROJO</item>
+        <item>AZUL</item>
+        <item>VERDE</item>
+    </string-array>
+
+    <string-array name="ANIMALES">
+        <item>JIRAFA</item>
+        <item>ELEFANTE</item>
+        <item>PERRO</item>
     </string-array>
 
     <string-array name="NATURALEZA">
