@@ -1,0 +1,192 @@
+<resources>
+
+    <!-- Words hangman -->
+
+    <string-array name="nivel">
+        <item>FACIL</item>
+        <item>DIFICIL</item>
+    </string-array>
+
+    <string-array name="descripcionnivel">
+        <item>Tienes 6 intentos para acertar la palabra</item>
+        <item>Tienes 4 intentos para acertar la palabra</item>
+    </string-array>
+
+    <string-array name="categoria">
+        <item>NATURALEZA</item>
+        <item>CIUDADES</item>
+    </string-array>
+
+    <string-array name="descripcioncategoria">
+        <item>En esta categoria estan: animales, flores, frutas y plantas</item>
+        <item>En esta categoria estan algunas de las ciudades de todo el mundo</item>
+    </string-array>
+
+    <string-array name="NATURALEZA">
+        <item>PERRO</item>
+        <item>GATO</item>
+        <item>CABALLO</item>
+        <item>CANGURO</item>
+        <item>HORMIGA</item>
+        <item>GORILA</item>
+        <item>BUFALO</item>
+        <item>LINCE</item>
+        <item>HALCON</item>
+        <item>MARIPOSA</item>
+        <item>JIRAFA</item>
+        <item>MORENA</item>
+        <item>COCODRILO</item>
+        <item>TAENIA</item>
+        <item>ORANGUTAN</item>
+        <item>ELEFANTE</item>
+        <item>TUCAN</item>
+        <item>CISNE</item>
+        <item>LEOPARDO</item>
+        <item>KOALA</item>
+        <item>CONDOR</item>
+        <item>ARAÑA</item>
+        <item>CHIMPANCE</item>
+        <item>ESCORPION</item>
+        <item>LEMUR</item>
+        <item>MANATI</item>
+        <item>DOBERMAN</item>
+        <item>LIBELULA</item>
+        <item>AVISPA</item>
+        <item>HAMSTER</item>
+        <item>AVESTRUZ</item>
+        <item>BALLENA</item>
+        <item>CALAMAR</item>
+        <item>CARACOL</item>
+        <item>DELFIN</item>
+        <item>MORSA</item>
+        <item>TIBURON</item>
+        <item>SALMON</item>
+        <item>ARDILLA</item>
+        <item>DRAGON</item>
+        <item>FRESA</item>
+        <item>NARANJA</item>
+        <item>SANDIA</item>
+        <item>MANZANA</item>
+        <item>LIMON</item>
+        <item>DURAZNO</item>
+        <item>AGUACATE</item>
+        <item>PAPAYA</item>
+        <item>GUAYABA</item>
+        <item>MELON</item>
+        <item>CIRUELA</item>
+        <item>PLATANO</item>
+        <item>KIWI</item>
+        <item>MARACUYA</item>
+        <item>MANGO</item>
+        <item>CEREZA</item>
+        <item>TORONJA</item>
+        <item>MORA</item>
+        <item>PERA</item>
+        <item>ALMENDRO</item>
+        <item>ROBLE</item>
+        <item>NISPERO</item>
+        <item>NOGAL</item>
+        <item>PINO</item>
+        <item>LAUREL</item>
+        <item>COROZO</item>
+        <item>PALMERA</item>
+        <item>ROSA</item>
+        <item>GIRASOL</item>
+        <item>TULIPAN</item>
+        <item>ORQUIDEA</item>
+        <item>CLAVEL</item>
+        <item>HONGO</item>
+        <item>JAZMIN</item>
+        <item>COLIBRI</item>
+        <item>OLIVO</item>
+        <item>CALENDULA</item>
+        <item>CEDRO</item>
+        <item>CEIBA</item>
+        <item>CEBOLLA</item>
+    </string-array>
+    <string-array name="CIUDADES">
+        <item>BOGOTA</item>
+        <item>USHUAIA</item>
+        <item>CALLAO</item>
+        <item>PUEBLA</item>
+        <item>MEDELLIN</item>
+        <item>ROSARIO</item>
+        <item>SANTIAGO</item>
+        <item>TULUA</item>
+        <item>CARACAS</item>
+        <item>MARACAIBO</item>
+        <item>CUCUTA</item>
+        <item>MENDOZA</item>
+        <item>PARANA</item>
+        <item>PEREIRA</item>
+        <item>RIOHACHA</item>
+        <item>MARACAY</item>
+        <item>BARINAS</item>
+        <item>CUENCA</item>
+        <item>IBARRA</item>
+        <item>TOLUCA</item>
+        <item>JUAREZ</item>
+        <item>MANAGUA</item>
+        <item>PANAMA</item>
+        <item>CUZCO</item>
+        <item>HUANCAYO</item>
+        <item>CHICLAYO</item>
+        <item>ORURO</item>
+        <item>POTOSI</item>
+        <item>ASUNCION</item>
+        <item>LUQUE</item>
+        <item>PAYSANDU</item>
+        <item>SALTO</item>
+        <item>TEMUCO</item>
+        <item>RANCAGUA</item>
+        <item>TALCA</item>
+        <item>IQUIQUE</item>
+        <item>SEVILLA</item>
+        <item>BILBAO</item>
+        <item>ALICANTE</item>
+        <item>MALAGA</item>
+        <item>BEIJING</item>
+        <item>HOUSTON</item>
+        <item>OTTAWA</item>
+        <item>TORONTO</item>
+        <item>KAZAN</item>
+        <item>SALONICA</item>
+        <item>GENOVA</item>
+        <item>NANTES</item>
+        <item>MARSELLA</item>
+        <item>OXFORD</item>
+        <item>NORWICH</item>
+        <item>MUNICH</item>
+        <item>BREMEN</item>
+        <item>HANNOVER</item>
+        <item>BUCAREST</item>
+        <item>BELGRADO</item>
+        <item>OSAKA</item>
+        <item>NAGASAKI</item>
+        <item>SHANGAI</item>
+        <item>DAMASCO</item>
+        <item>MOSUL</item>
+        <item>MEDINA</item>
+        <item>THERAN</item>
+        <item>MALMO</item>
+        <item>ESTOCOLMO</item>
+        <item>OSLO</item>
+        <item>MIAMI</item>
+        <item>CHICAGO</item>
+        <item>DETROIT</item>
+        <item>MEMPHIS</item>
+        <item>RABAT</item>
+        <item>DAKAR</item>
+        <item>LUANDA</item>
+        <item>BOMBAY</item>
+        <item>CALCUTA</item>
+        <item>SIDNEY</item>
+        <item>VENECIA</item>
+        <item>BRUSELAS</item>
+        <item>MOSCU</item>
+        <item>ROSTOV</item>
+    </string-array>
+
+
+
+</resources>

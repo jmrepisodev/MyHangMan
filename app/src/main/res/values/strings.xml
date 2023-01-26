@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyHangMan</string>
+    <string name="categoria">Categoría</string>
+    <string name="level">Nivel</string>
+    <string name="btn_play">Jugar</string>
+    <string name="hangman">Juego del ahorcado</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="fail">Lo siento. ¡Has perdido!</string>
+    <string name="btn_exit">Salir</string>
+    <string name="verResultados">Aceptar</string>
+    <string name="congratulations">ENHORABUENA</string>
+    <string name="success">Enhorabuena ¡Has ganado!</string>
+</resources>
